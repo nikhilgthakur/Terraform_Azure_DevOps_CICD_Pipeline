@@ -3,6 +3,9 @@
 ## Project Overview
 In this project demonstrates we will implement a continuous integration and continuous deployment (CI/CD) pipeline using Azure DevOps and Terraform. This pipeline automates the deployment of infrastructure, making it consistent and repeatable.
 
+![Terraform](https://github.com/user-attachments/assets/df2a8285-7f0d-4deb-b479-07e343ad3968)
+
+
 ## Prerequisites
 
 - **Azure DevOps Account:** Ensure you have an Azure DevOps organization set up.
